@@ -10,7 +10,6 @@ const Chat = () => {
         <Message author={'Somebody'} message={'Something'} datetime={'1213314223523'}/>
         <Message author={'Somebody'} message={'Something'} datetime={'1213314223523'}/>
         <Message author={'Somebody'} message={'Something'} datetime={'1213314223523'}/>
-
       </div>
     </>
   );
