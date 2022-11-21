@@ -4,9 +4,7 @@ import Chat from "./containers/Chat/Chat";
 
 function App() {
   return (
-    <div className="container">
-      <Chat/>
-    </div>
+    <Chat/>
   );
 }
 
